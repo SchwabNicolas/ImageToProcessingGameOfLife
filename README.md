@@ -1,4 +1,4 @@
-# ImageToGameOfLifeProcessing
+# ImageToProcessingGameOfLife
 A program used to convert an image to a game of life grid.
 
 ## How to use that program ?
