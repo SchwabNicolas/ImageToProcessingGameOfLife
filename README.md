@@ -1,5 +1,5 @@
 # ImageToProcessingGameOfLife
-A program used to convert an image to a game of life grid.
+A program used to convert an image to a game of life grid. Then it can be imported into ![GameOfLife](https://github.com/SchwabNicolas/GameOfLife) program.
 
 ## How to use that program ?
 1. Create a folder named *imageToGOLProcessing*.
